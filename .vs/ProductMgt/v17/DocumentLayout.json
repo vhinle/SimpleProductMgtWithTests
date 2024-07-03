@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faculty\\Desktop\\ProductTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9824E2B6-0658-4828-A252-9630D4E4D41D}|ProductMgt.Tests\\ProductMgt.Tests.csproj|c:\\users\\faculty\\desktop\\producttest\\productmgt.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824E2B6-0658-4828-A252-9630D4E4D41D}|ProductMgt.Tests\\ProductMgt.Tests.csproj|solutionrelative:productmgt.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279D12BE-5456-4727-B77A-3C57282CA8B2}|ProductsMgtUI\\ProductsMgtUI.csproj|c:\\users\\faculty\\desktop\\producttest\\productsmgtui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279D12BE-5456-4727-B77A-3C57282CA8B2}|ProductsMgtUI\\ProductsMgtUI.csproj|solutionrelative:productsmgtui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86261AC2-E435-45A0-B3EF-BFA2C9DE4131}|Data\\Data.csproj|c:\\users\\faculty\\desktop\\producttest\\data\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86261AC2-E435-45A0-B3EF-BFA2C9DE4131}|Data\\Data.csproj|solutionrelative:data\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279D12BE-5456-4727-B77A-3C57282CA8B2}|ProductsMgtUI\\ProductsMgtUI.csproj|c:\\users\\faculty\\desktop\\producttest\\productsmgtui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{279D12BE-5456-4727-B77A-3C57282CA8B2}|ProductsMgtUI\\ProductsMgtUI.csproj|solutionrelative:productsmgtui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279D12BE-5456-4727-B77A-3C57282CA8B2}|ProductsMgtUI\\ProductsMgtUI.csproj|c:\\users\\faculty\\desktop\\producttest\\productsmgtui\\productsmgtui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{279D12BE-5456-4727-B77A-3C57282CA8B2}|ProductsMgtUI\\ProductsMgtUI.csproj|solutionrelative:productsmgtui\\productsmgtui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86261AC2-E435-45A0-B3EF-BFA2C9DE4131}|Data\\Data.csproj|c:\\users\\faculty\\desktop\\producttest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86261AC2-E435-45A0-B3EF-BFA2C9DE4131}|Data\\Data.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86261AC2-E435-45A0-B3EF-BFA2C9DE4131}|Data\\Data.csproj|c:\\users\\faculty\\desktop\\producttest\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86261AC2-E435-45A0-B3EF-BFA2C9DE4131}|Data\\Data.csproj|solutionrelative:data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Faculty\\Desktop\\ProductTest\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Faculty\\Desktop\\ProductTest\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Data\\AppDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:45:58.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Faculty\\Desktop\\ProductTest\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Faculty\\Desktop\\ProductTest\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:45:45.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Faculty\\Desktop\\ProductTest\\ProductMgt.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProductMgt.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Faculty\\Desktop\\ProductTest\\ProductMgt.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ProductMgt.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:25:41.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faculty\\Desktop\\ProductTest\\ProductsMgtUI\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductsMgtUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Faculty\\Desktop\\ProductTest\\ProductsMgtUI\\Form1.cs [Design]",
+              "RelativeToolTip": "ProductsMgtUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:19:04.487Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Faculty\\Desktop\\ProductTest\\ProductsMgtUI\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductsMgtUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Faculty\\Desktop\\ProductTest\\ProductsMgtUI\\Form1.cs",
+              "RelativeToolTip": "ProductsMgtUI\\Form1.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADwvy4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:05:28.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "C:\\Users\\Faculty\\Desktop\\ProductTest\\Data\\DBService.cs",
+              "RelativeDocumentMoniker": "Data\\DBService.cs",
+              "ToolTip": "C:\\Users\\Faculty\\Desktop\\ProductTest\\Data\\DBService.cs",
+              "RelativeToolTip": "Data\\DBService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:12:48.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsMgtUI",
+              "DocumentMoniker": "C:\\Users\\Faculty\\Desktop\\ProductTest\\ProductsMgtUI\\ProductsMgtUI.csproj",
+              "RelativeDocumentMoniker": "ProductsMgtUI\\ProductsMgtUI.csproj",
+              "ToolTip": "C:\\Users\\Faculty\\Desktop\\ProductTest\\ProductsMgtUI\\ProductsMgtUI.csproj",
+              "RelativeToolTip": "ProductsMgtUI\\ProductsMgtUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T08:46:09.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
